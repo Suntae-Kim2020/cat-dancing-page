@@ -1,0 +1,49 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cat body -->
+  <ellipse cx="100" cy="130" rx="45" ry="35" fill="#ff8c42" stroke="#ff6b1a" stroke-width="2"/>
+  
+  <!-- Cat head -->
+  <circle cx="100" cy="80" r="40" fill="#ff8c42" stroke="#ff6b1a" stroke-width="2"/>
+  
+  <!-- Cat ears -->
+  <path d="M75 50 L85 75 L65 75 Z" fill="#ff8c42" stroke="#ff6b1a" stroke-width="2"/>
+  <path d="M125 50 L135 75 L115 75 Z" fill="#ff8c42" stroke="#ff6b1a" stroke-width="2"/>
+  
+  <!-- Inner ears -->
+  <path d="M77 58 L82 70 L72 70 Z" fill="#ffb380"/>
+  <path d="M127 58 L132 70 L122 70 Z" fill="#ffb380"/>
+  
+  <!-- Cat eyes -->
+  <ellipse cx="88" cy="75" rx="8" ry="12" fill="#000"/>
+  <ellipse cx="112" cy="75" rx="8" ry="12" fill="#000"/>
+  
+  <!-- Eye shine -->
+  <ellipse cx="90" cy="72" rx="3" ry="4" fill="#fff"/>
+  <ellipse cx="114" cy="72" rx="3" ry="4" fill="#fff"/>
+  
+  <!-- Cat nose -->
+  <path d="M97 85 L103 85 L100 90 Z" fill="#ff6b1a"/>
+  
+  <!-- Cat mouth -->
+  <path d="M100 90 Q95 95 90 92" stroke="#ff6b1a" stroke-width="2" fill="none"/>
+  <path d="M100 90 Q105 95 110 92" stroke="#ff6b1a" stroke-width="2" fill="none"/>
+  
+  <!-- Cat whiskers -->
+  <line x1="60" y1="80" x2="85" y2="78" stroke="#ff6b1a" stroke-width="2"/>
+  <line x1="60" y1="85" x2="85" y2="85" stroke="#ff6b1a" stroke-width="2"/>
+  <line x1="115" y1="78" x2="140" y2="80" stroke="#ff6b1a" stroke-width="2"/>
+  <line x1="115" y1="85" x2="140" y2="85" stroke="#ff6b1a" stroke-width="2"/>
+  
+  <!-- Cat paws -->
+  <ellipse cx="80" cy="155" rx="12" ry="8" fill="#ff8c42" stroke="#ff6b1a" stroke-width="2"/>
+  <ellipse cx="120" cy="155" rx="12" ry="8" fill="#ff8c42" stroke="#ff6b1a" stroke-width="2"/>
+  
+  <!-- Cat tail -->
+  <path d="M145 130 Q160 120 170 140 Q175 150 165 160 Q155 165 150 155" 
+        fill="#ff8c42" stroke="#ff6b1a" stroke-width="2"/>
+  
+  <!-- Cat stripes -->
+  <ellipse cx="85" cy="125" rx="8" ry="3" fill="#ff6b1a" opacity="0.6"/>
+  <ellipse cx="115" cy="125" rx="8" ry="3" fill="#ff6b1a" opacity="0.6"/>
+  <ellipse cx="100" cy="135" rx="10" ry="3" fill="#ff6b1a" opacity="0.6"/>
+</svg>
